@@ -1,0 +1,38 @@
+<div id="H_updateDateAndTime">22/07/2017/08:40</div>
+<div id="H_content">
+    <div id="H_appNameEng">Hoyam</div>
+    <div id="H_appNameAr">هــيــام</div>
+    <div id="H_appWebsite">http://www.hoyam.tv</div>
+    <div id="H_appDesciption">N/N</div>
+    <div id="H_appVersion">2.0</div>
+
+    <div id="H_shouldUseCostumDownload">true</div>
+    <div id="H_appDldLink">http://hoyamofficial.000webhostapp.com/hoyam/site/appUpdate.xml</div>
+    <div id="H_whatsNew"> إضافة المفضلة -تصحيح بعض الأ خطاء البرمجية -دعم الأندرويد</div>
+
+    <div id="H_shouldUseAdmobAd">false</div>
+    <div id="H_admobIds">
+             <div id="H_admobAppId">ca-app-pub-6935730504057405~4056941971</div>
+             <div id="H_adBannerMain">ca-app-pub-6935730504057405/2444804373</div>
+             <div id="H_adNativeSmallMain">ca-app-pub-6935730504057405/9579621574</div>
+             <div id="H_interstitielSingleItemView">ca-app-pub-6935730504057405/1744970377</div>
+    </div>
+
+    <div id="H_cAdTitle">Hoyam TV هــيــام</div>
+    <div id="H_cAdDescription">http://www.hoyam.tv : قم بزيارتنا على</div>
+    <div id="H_cAdLink">https://www.facebook.com/rahalt.el.khair</div>
+    <div id="H_cAdImage">http://www.greenkub.fr/wp-content/uploads/2014/07/header-google--576x328.jpg</div>
+    <div id="H_cAdHeaderDrawerImage">http://api.androidhive.info/images/nav-menu-header-bg.jpg</div>
+
+    <div id="H_shouldShow911Annonce">true</div>
+    <div id="H_911AnnonceTitle">ساعد على فعل الخير</div>
+    <div id="H_911AnnonceNegButton">تجاهل</div>
+    <div id="H_911AnnoncePosButton">معرفة المزيد</div>
+    <div id="H_911AnnonceLink">http://www.lexilogos.com/clavier/araby.htm</div>
+    <div id="H_c911Annonce">
+
+      <img src="https://hoyamofficial.000webhostapp.com/hoyam/site/rk.jpg" alt="HTML5 Icon" width="100%" height="auto">
+    </div>
+</div>
+
+<!-- Image Drawer Header should be 576x328 -->
