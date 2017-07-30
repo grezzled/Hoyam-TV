@@ -1,7 +1,7 @@
 # Hoyam-TV
 An Android App that allows users to stream Movies and TV Series 
-// Target the file 
-https://cdn.rawgit.com/grezzled/Hoyam-TV/master/README.md
+
+Soufiane Belchhab aka (Grezzled) built the Hoyam TV app as an ad-supported app. This SERVICE is provided by Soufiane Belchhab at no cost and is intended for use as is.
 
 # Changelog
 
