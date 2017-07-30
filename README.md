@@ -5,7 +5,7 @@ https://cdn.rawgit.com/grezzled/Hoyam-TV/master/README.md
 
 # Changelog
 
-**Version 1.0.2 (30 July,2017)** [Download]()
+**Version 1.0.2 (30 July,2017)** [Download](https://cdn.rawgit.com/grezzled/Hoyam-TV/48ab139c/Releases/Hoyam%20TV%20-%20V1.0.2.apk)
 * Custom crash layout  
 
 **Version 1.0.1 (29 July,2017)** [Download](https://cdn.rawgit.com/grezzled/Hoyam-TV/2bf49506/Hoyam%20TV%20-%20V1.0.1.apk)
