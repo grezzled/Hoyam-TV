@@ -5,6 +5,9 @@ Soufiane Belchhab aka (Grezzled) built the Hoyam TV app as an ad-supported app. 
 
 # Changelog
 
+**Version 1.0.3 (30 July,2017)** [Download](https://cdn.rawgit.com/grezzled/Hoyam-TV/86c9d3b5/Releases/Hoyam%20TV%20-%20%20V1.0.3.apk)
+* Bug fix 
+
 **Version 1.0.2 (30 July,2017)** [Download](https://cdn.rawgit.com/grezzled/Hoyam-TV/48ab139c/Releases/Hoyam%20TV%20-%20V1.0.2.apk)
 * Custom crash layout  
 
