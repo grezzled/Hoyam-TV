@@ -1,7 +1,5 @@
-# Hoyam-TV
+## Hoyam-TV
 An Android App that allows users to stream Movies and TV Series 
-
-Soufiane Belchhab aka (Grezzled) built the Hoyam TV app as an ad-supported app. This SERVICE is provided by Soufiane Belchhab at no cost and is intended for use as is.
 
 # Changelog
 
