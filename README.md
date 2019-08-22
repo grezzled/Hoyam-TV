@@ -1,7 +1,7 @@
-## Hoyam-TV
+# Hoyam-TV
 An Android App that allows users to stream Movies and TV Series 
 
-# Changelog
+## Changelog
 
 **Version 1.0.3 (9 August,2017)** [Download](https://cdn.rawgit.com/grezzled/Hoyam-TV/86c9d3b5/Releases/Hoyam%20TV%20-%20%20V1.0.3.apk)
 * Bug fix 
